@@ -1,0 +1,72 @@
+/* *{
+    font-family:Courier Now;
+    background-color:blue; 
+}
+h1{
+    color:#b92b27;
+}
+#login{
+    background-color:white;
+}
+#signup{
+    background-color:#b92b27;
+    color:white;
+}
+.upvote{
+    background-color:green;
+}
+p a{
+    color:purple;
+    background-color:yellow;
+    text-decoration:none;
+    font-weight:800;
+}
+nav a{
+    color:hotpink;
+}
+div>input{
+    background-color:rgb(173, 169, 169);
+}
+h3:active{
+    color:hotpink;
+}
+p:active{
+    text-decoration:overline;
+} */
+
+
+#mainTopic{
+    color:blue;
+}
+
+*{
+    text-align:center;
+}
+
+h1 h3 h5{
+    font-family:Georgia;
+}
+
+.content{
+    color:white;
+    background-color:cornflowerblue;
+}
+
+div button{
+    background-color:purple;
+    color:azure;
+}
+button{
+    background-color:yellow;
+}
+button:hover{
+    color:blue;
+}
+
+body:nth-of-type(2n+1){
+    color:yellow;
+}
+
+h1::first-letter{
+    color:red;
+}

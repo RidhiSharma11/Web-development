@@ -1,0 +1,36 @@
+/* h1{
+    color:#ffa511;
+    text-align:center;
+    font-family: league spartan;
+    font-size:55px;
+    font-weight:900;
+    letter-spacing:2px;
+    line-height: 1.5;
+    text-decoration:teal double underline;
+    text-transform:uppercase;
+} */
+
+p{
+    color:#ff2000;
+}
+body{
+    text-align:center;
+    font-family:Georgia;
+    line-height:30px;
+}
+h1{
+    color:red;
+    text-decoration:underline;
+    text-transform:uppercase;
+}
+h3{
+    color:black;
+}
+a{
+    color:green;
+    text-decoration:none;
+}
+button{
+    background-color:white;
+    color:blueviolet;
+}

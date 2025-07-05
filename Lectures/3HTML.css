@@ -1,0 +1,18 @@
+div{
+    height:200px;
+    width:500px; 
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
+    background-color:pink;
+    border-top-style:dashed;
+    border-bottom-color:red;
+    padding:10px 20px 30px 40px;
+    margin:50px;
+}
+h1{
+    border-style:dashed;
+    border-width:2px;
+    border-color:purple;
+    margin: 2px 0px;
+}
