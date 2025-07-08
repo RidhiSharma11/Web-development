@@ -286,3 +286,51 @@ a{
   z-index:2;
   position:relative;
 }
+
+
+.sname{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  line-height:1.5;
+}
+
+.album{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-evenly;
+  align-items:center;
+}
+
+
+.play-song{
+  height:4rem;
+  width:4rem;
+  padding-left:0.25rem;
+  margin:3rem 0rem 3rem 1rem;
+  border-radius:0.4rem;
+}
+
+.song{
+  color:white;
+  font-weight:700;
+  display:flex;
+}
+
+#heart:hover{
+  cursor:pointer;
+  /* background-color:red; */
+  color:red;
+}
+
+
+
+/* .sticker{
+  display:flex;
+  justify-content:space-between;
+} */
+
+
+/* .ssong{
+  line-height:0.25px;
+} */
