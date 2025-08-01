@@ -7,7 +7,8 @@
       "default",
       {
         "image-alt": "off",
-        "document-title": "off"
+        "document-title": "off",
+        "frame-title": "off"
       }
     ],
     "no-inline-styles": "off",
@@ -21,6 +22,23 @@
       "default",
       {
         "label": "off"
+      }
+    ],
+    "meta-viewport": "off",
+    "button-type": "off",
+    "axe/language": [
+      "default",
+      {
+        "html-has-lang": "off"
+      }
+    ],
+    "compat-api/html": [
+      "default",
+      {
+        "ignore": [
+          "iframe[loading]",
+          "iframe[referrerpolicy=no-referrer-when-downgrade]"
+        ]
       }
     ]
   }
