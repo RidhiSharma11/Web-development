@@ -73,7 +73,7 @@ form.addEventListener("submit", function(e) {
     }
 
     if(isValid){
-        alert("Form submitted successfully!");
+        alert("POOTIYA!! Chll bhaag");
         form.reset();
     }
 });
